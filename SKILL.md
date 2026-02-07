@@ -1,5 +1,5 @@
 ---
-name: mission-control
+name: openclaw-mission-control
 description: Coordinate AI agent teams via a Kanban task board with local JSON storage. Enables multi-agent workflows with a Team Lead assigning work and Worker Agents executing tasks via heartbeat polling. Perfect for building AI agent command centers.
 ---
 
